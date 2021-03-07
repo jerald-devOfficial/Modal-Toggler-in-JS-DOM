@@ -8,3 +8,5 @@ There are three ways of closing the modal:
 1. Click the close (X) button,
 2. Click the overlay of the modal (outside the modal box area),
 3. Press Escape key (Esc)
+
+Live demo here: https://jerald-devofficial.github.io/Modal-Toggler-in-JS-DOM/
